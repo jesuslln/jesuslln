@@ -1,15 +1,10 @@
-## Jesus Lopez Neira 👋
 <!-- Other pages or points of contact -->
-<div id="badges" align="center">
+<div id="badges">
+  ## Jesus Lopez Neira 👋
   <a href="https://www.linkedin.com/in/jes%C3%BAs-l%C3%B3pez-neira-000ba7195/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
-
-<div id="gif-1" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRnOWVjZHlkbmVsajIzM3c3eWdhazBjOXJoc3dlY204ZTM4d3J4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="600" height="300"/>
-</div>
-  
 
 ---
 
