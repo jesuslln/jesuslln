@@ -1,8 +1,4 @@
-<!-- Intro Image or Gif -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
+## Jesus Lopez Neira 👋
 <!-- Other pages or points of contact -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jes%C3%BAs-l%C3%B3pez-neira-000ba7195/">
@@ -10,11 +6,10 @@
     </a>
 </div>
 
-
-## Jesus Lopez Neira 👋
-
-
+<div id="gif-1" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRnOWVjZHlkbmVsajIzM3c3eWdhazBjOXJoc3dlY204ZTM4d3J4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="600" height="300"/>
+</div>
+  
 
 ---
 
