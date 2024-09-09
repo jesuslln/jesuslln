@@ -1,10 +1,4 @@
-<!-- Other pages or points of contact -->
-<div id="badges">
   ## Jesus Lopez Neira 👋
-  <a href="https://www.linkedin.com/in/jes%C3%BAs-l%C3%B3pez-neira-000ba7195/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-</div>
 
 ---
 
@@ -22,6 +16,13 @@
 - ⚡In my free time, I read and learn from other backgrounds. My main interests are art, music and ethics. 
 
 - 📫 You can reach me by [email](mailto:lopezneira.jesus@gmail.com).
+
+<!-- Other pages or points of contact -->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jes%C3%BAs-l%C3%B3pez-neira-000ba7195/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
 
 ---
 
