@@ -6,10 +6,12 @@
  I'm deeply interested in data science and programming which I have practice through my years in school, hackathons and work experience. 
 
 - 🎓 I studied Computer Science and Business Analytics double major.
+  
+- 🧑‍💼 I have worked as a Full Stack Software Developer with microsoft tools (.Net) and as an intern in product management.
 
-- 🔭 I have worked as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I want to develope my career on Data Science. I have experience in projects with Deep Learning (Computer Vision, Autoencoders) and supervised and unsupervised approaches (Forecasting, Dimensionality Reduction and Clustering)
 
-- 🌱 Right now I'm exploring videogame design and RL algorithms.
+- 🌱 Just got my certificate from HugggingFace on [Deep RL algorithms](https://drive.google.com/file/d/1hKpxQP52pPl5J7n8x7KC83CDTaFrEuMt/view?usp=sharing) . Check my profile [here](https://huggingface.co/YisusLn).
 
 - ⚡In my free time, I read and learn from other backgrounds. My main interests are art, music and ethics. 
 
