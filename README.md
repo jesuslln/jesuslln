@@ -19,7 +19,7 @@
 
 <!-- Other pages or points of contact -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jes%C3%BAs-l%C3%B3pez-neira-000ba7195/">
+  <a href="https://www.linkedin.com/in/jesus-lopez-neira/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
